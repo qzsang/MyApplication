@@ -1,0 +1,2 @@
+include ':app', ':afinallibrary', ':adaptive4px', ':debugtest', ':hxtest', ':eventbustest'
+include ':easeUI'

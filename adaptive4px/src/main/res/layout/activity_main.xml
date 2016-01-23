@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_adaptive"
+        android:layout_width="@dimen/x360"
+        android:layout_height="@dimen/x640"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:text="你好适配" />
+
+
+    <Button
+        android:id="@+id/btn_2"
+        android:layout_width="@dimen/x360"
+        android:layout_height="@dimen/x640"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_red_light"
+        android:gravity="center"
+        android:layout_below="@id/btn_adaptive"
+        android:text="你好适配" />
+    <Button
+        android:id="@+id/btn_3"
+        android:layout_width="@dimen/x360"
+        android:layout_height="@dimen/x640"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_red_light"
+        android:gravity="center"
+        android:layout_toRightOf="@id/btn_adaptive"
+        android:text="你好适配" />
+</RelativeLayout>

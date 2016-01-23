@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adaptive4px/adaptive4px.iml" filepath="$PROJECT_DIR$/adaptive4px/adaptive4px.iml" />
+      <module fileurl="file://$PROJECT_DIR$/afinallibrary/afinallibrary.iml" filepath="$PROJECT_DIR$/afinallibrary/afinallibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugtest/debugtest.iml" filepath="$PROJECT_DIR$/debugtest/debugtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeUI/easeUI.iml" filepath="$PROJECT_DIR$/easeUI/easeUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbustest/eventbustest.iml" filepath="$PROJECT_DIR$/eventbustest/eventbustest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hxtest/hxtest.iml" filepath="$PROJECT_DIR$/hxtest/hxtest.iml" />
+    </modules>
+  </component>
+</project>
