@@ -12,10 +12,20 @@
             <option value="$PROJECT_DIR$/adaptive4px" />
             <option value="$PROJECT_DIR$/afinallibrary" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bitmapshadertest" />
+            <option value="$PROJECT_DIR$/customtextviewtest" />
             <option value="$PROJECT_DIR$/debugtest" />
+            <option value="$PROJECT_DIR$/demoandroid" />
+            <option value="$PROJECT_DIR$/dialogtest" />
             <option value="$PROJECT_DIR$/easeUI" />
             <option value="$PROJECT_DIR$/eventbustest" />
+            <option value="$PROJECT_DIR$/finalbitmaptest" />
+            <option value="$PROJECT_DIR$/floattest" />
+            <option value="$PROJECT_DIR$/gallerytest" />
             <option value="$PROJECT_DIR$/hxtest" />
+            <option value="$PROJECT_DIR$/popupwindowtest" />
+            <option value="$PROJECT_DIR$/rxjavatest" />
+            <option value="$PROJECT_DIR$/showanimation" />
           </set>
         </option>
       </GradleProjectSettings>

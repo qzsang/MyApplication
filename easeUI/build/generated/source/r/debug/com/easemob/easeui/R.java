@@ -500,15 +500,16 @@ containing a value of this type.
         public static int ee_33=0x7f02009f;
         public static int ee_34=0x7f0200a0;
         public static int ee_35=0x7f0200a1;
-        public static int ee_4=0x7f0200a2;
-        public static int ee_5=0x7f0200a3;
-        public static int ee_6=0x7f0200a4;
-        public static int ee_7=0x7f0200a5;
-        public static int ee_8=0x7f0200a6;
-        public static int ee_9=0x7f0200a7;
-        public static int ic_launcher=0x7f0200a8;
-        public static int voice_from_icon=0x7f0200a9;
-        public static int voice_to_icon=0x7f0200aa;
+        public static int ee_36=0x7f0200a2;
+        public static int ee_4=0x7f0200a3;
+        public static int ee_5=0x7f0200a4;
+        public static int ee_6=0x7f0200a5;
+        public static int ee_7=0x7f0200a6;
+        public static int ee_8=0x7f0200a7;
+        public static int ee_9=0x7f0200a8;
+        public static int ic_launcher=0x7f0200a9;
+        public static int voice_from_icon=0x7f0200aa;
+        public static int voice_to_icon=0x7f0200ab;
     }
     public static final class id {
         public static int alert_message=0x7f09000d;

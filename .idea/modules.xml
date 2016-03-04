@@ -6,10 +6,20 @@
       <module fileurl="file://$PROJECT_DIR$/adaptive4px/adaptive4px.iml" filepath="$PROJECT_DIR$/adaptive4px/adaptive4px.iml" />
       <module fileurl="file://$PROJECT_DIR$/afinallibrary/afinallibrary.iml" filepath="$PROJECT_DIR$/afinallibrary/afinallibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapshadertest/bitmapshadertest.iml" filepath="$PROJECT_DIR$/bitmapshadertest/bitmapshadertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtextviewtest/customtextviewtest.iml" filepath="$PROJECT_DIR$/customtextviewtest/customtextviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/debugtest/debugtest.iml" filepath="$PROJECT_DIR$/debugtest/debugtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoandroid/demoandroid.iml" filepath="$PROJECT_DIR$/demoandroid/demoandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogtest/dialogtest.iml" filepath="$PROJECT_DIR$/dialogtest/dialogtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/easeUI/easeUI.iml" filepath="$PROJECT_DIR$/easeUI/easeUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/eventbustest/eventbustest.iml" filepath="$PROJECT_DIR$/eventbustest/eventbustest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalbitmaptest/finalbitmaptest.iml" filepath="$PROJECT_DIR$/finalbitmaptest/finalbitmaptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floattest/floattest.iml" filepath="$PROJECT_DIR$/floattest/floattest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gallerytest/gallerytest.iml" filepath="$PROJECT_DIR$/gallerytest/gallerytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/hxtest/hxtest.iml" filepath="$PROJECT_DIR$/hxtest/hxtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupwindowtest/popupwindowtest.iml" filepath="$PROJECT_DIR$/popupwindowtest/popupwindowtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavatest/rxjavatest.iml" filepath="$PROJECT_DIR$/rxjavatest/rxjavatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showanimation/showanimation.iml" filepath="$PROJECT_DIR$/showanimation/showanimation.iml" />
     </modules>
   </component>
 </project>

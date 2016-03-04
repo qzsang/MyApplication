@@ -1,2 +1,2 @@
-include ':app', ':afinallibrary', ':adaptive4px', ':debugtest', ':hxtest', ':eventbustest'
+include ':app', ':afinallibrary', ':adaptive4px', ':debugtest', ':hxtest', ':eventbustest', ':rxjavatest', ':finalbitmaptest', ':customtextviewtest', ':gallerytest', ':bitmapshadertest', ':demoandroid', ':popupwindowtest', ':floattest', ':showanimation', ':dialogtest'
 include ':easeUI'

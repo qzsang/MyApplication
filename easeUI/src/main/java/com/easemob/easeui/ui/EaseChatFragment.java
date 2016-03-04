@@ -238,11 +238,11 @@ public class EaseChatFragment extends EaseBaseFragment implements EMEventListene
         setRefreshLayoutListener();
         
         // show forward message if the message is not null
-        String forward_msg_id = getArguments().getString("forward_msg_id");
-        if (forward_msg_id != null) {
-            // 发送要转发的消息
-            forwardMessage(forward_msg_id);
-        }
+//        String forward_msg_id = getArguments().getString("forward_msg_id");
+//        if (forward_msg_id != null) {
+//            // 发送要转发的消息
+//            forwardMessage(forward_msg_id);
+//        }
     }
     
     /**

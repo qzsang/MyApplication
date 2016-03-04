@@ -68,7 +68,9 @@ public class MainActivity extends Activity {
 
                     @Override
                     public void onError(int code, String message) {
-                        Log.d("main", "登陆聊天服务器失败！");
+
+                        Log.e("main login onError", "code:"+code+"," +message);
+                        Log.e("main", "登陆聊天服务器失败！");
                     }
                 });
                 break;

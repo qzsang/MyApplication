@@ -7,3 +7,9 @@ as调试测试： debugtest
 EventBus测试： eventbustest
 
 环信测试： hxtest
+
+自定义视图：  customtextviewtest
+
+rxjava测试：  rxjavatest
+
+自定义imageView：  bitmapshadertest

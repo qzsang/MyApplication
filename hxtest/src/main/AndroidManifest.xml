@@ -46,6 +46,16 @@
         <activity android:name=".ui.ChatActivity"
             >
         </activity>
+
+        <activity android:name="com.easemob.easeui.ui.EaseShowBigImageActivity"
+            >
+        </activity>
+        <activity android:name="com.easemob.easeui.ui.EaseBaseActivity"
+            >
+        </activity>
+        <activity android:name="com.easemob.easeui.ui.EaseBaiduMapActivity"
+            >
+        </activity>
     </application>
 
 </manifest>

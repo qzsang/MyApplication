@@ -1,12 +1,10 @@
 package com.easemob.easeui.widget.emojicon;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.content.Context;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -19,6 +17,9 @@ import com.easemob.easeui.domain.EaseEmojicon;
 import com.easemob.easeui.domain.EaseEmojicon.Type;
 import com.easemob.easeui.domain.EaseEmojiconGroupEntity;
 import com.easemob.easeui.utils.EaseSmileUtils;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class EaseEmojiconPagerView extends ViewPager{
 
@@ -194,10 +195,11 @@ public class EaseEmojiconPagerView extends ViewPager{
     
     /**
      * 获取pager数量
-     * @param emojiconList
+     * @param groupEntity
      * @return
      */
     private int getPageSize(EaseEmojiconGroupEntity groupEntity) {
+        Log.e("wjn",groupEntity.toString());
         List<EaseEmojicon> emojiconList = groupEntity.getEmojiconList();
         int itemSize = emojiconColumns * emojiconRows -1;
         int totalSize = emojiconList.size();

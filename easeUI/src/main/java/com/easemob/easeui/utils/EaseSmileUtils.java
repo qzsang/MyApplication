@@ -13,13 +13,6 @@
  */
 package com.easemob.easeui.utils;
 
-import java.io.File;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Map.Entry;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import android.content.Context;
 import android.net.Uri;
 import android.text.Spannable;
@@ -30,6 +23,13 @@ import com.easemob.easeui.controller.EaseUI;
 import com.easemob.easeui.controller.EaseUI.EaseEmojiconInfoProvider;
 import com.easemob.easeui.domain.EaseEmojicon;
 import com.easemob.easeui.model.EaseDefaultEmojiconDatas;
+
+import java.io.File;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class EaseSmileUtils {
     public static final String DELETE_KEY = "em_delete_delete_expression";
@@ -69,7 +69,7 @@ public class EaseSmileUtils {
 	public static final String ee_33 = "[(F)]";
 	public static final String ee_34 = "[(W)]";
 	public static final String ee_35 = "[(D)]";
-	
+	public static final String ee_36 = "[(TEST)]";
 	private static final Factory spannableFactory = Spannable.Factory
 	        .getInstance();
 	
