@@ -13,3 +13,5 @@ EventBus测试： eventbustest
 rxjava测试：  rxjavatest
 
 自定义imageView：  bitmapshadertest
+
+界面测试 : surfacetest
