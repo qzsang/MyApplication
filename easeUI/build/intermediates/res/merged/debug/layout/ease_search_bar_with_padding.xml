@@ -39,4 +39,4 @@
         android:src="@drawable/ease_search_clear"
         android:visibility="invisible" />
 
-</RelativeLayout><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/src/main/res/layout/ease_search_bar_with_padding.xml -->
+</RelativeLayout><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/src/main/res/layout/ease_search_bar_with_padding.xml -->

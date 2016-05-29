@@ -22,12 +22,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
 
 
-    int i = 0;
     //填充view
     @Override
     public ModelView onCreateViewHolder(ViewGroup parent, int viewType) {
 
-        Log.e("onCreateViewHolder",(i++)+",");
         return new ModelView(View.inflate(context,R.layout.list_item,null));
     }
 

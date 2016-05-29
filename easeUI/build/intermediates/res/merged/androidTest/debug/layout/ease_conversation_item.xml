@@ -9,4 +9,4 @@
         android:layout_height="wrap_content"
        />
  <!-- android:text="@string/conversation" --> 
-</LinearLayout><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/src/main/res/layout/ease_conversation_item.xml --><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/build/intermediates/bundles/debug/res/layout/ease_conversation_item.xml -->
+</LinearLayout><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/src/main/res/layout/ease_conversation_item.xml --><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/build/intermediates/bundles/debug/res/layout/ease_conversation_item.xml -->

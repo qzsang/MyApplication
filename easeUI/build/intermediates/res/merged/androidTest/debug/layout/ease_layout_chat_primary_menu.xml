@@ -3,4 +3,4 @@
     android:id="@+id/primary_menu"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
-<!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/src/main/res/layout/ease_layout_chat_primary_menu.xml --><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/build/intermediates/bundles/debug/res/layout/ease_layout_chat_primary_menu.xml -->
+<!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/src/main/res/layout/ease_layout_chat_primary_menu.xml --><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/build/intermediates/bundles/debug/res/layout/ease_layout_chat_primary_menu.xml -->

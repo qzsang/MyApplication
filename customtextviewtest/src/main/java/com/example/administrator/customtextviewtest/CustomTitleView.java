@@ -92,6 +92,17 @@ public class CustomTitleView extends View {
 
     }
 
+   /* 系统帮我们测量的高度和宽度都是MATCH_PARNET，当我们设置明确的宽度和高度时，系统帮我们测量的结果就是我们设置的结果，当我们设置为WRAP_CONTENT,或者MATCH_PARENT系统帮我们测量的结果就是MATCH_PARENT的长度。
+
+    所以，当设置了WRAP_CONTENT时，我们需要自己进行测量，即重写onMesure方法”：
+
+    重写之前先了解MeasureSpec的specMode,一共三种类型：
+
+    EXACTLY：一般是设置了明确的值或者是MATCH_PARENT
+
+    AT_MOST：表示子布局限制在一个最大值内，一般为WARP_CONTENT
+
+    UNSPECIFIED：表示子布局想要多大就多大，很少使用*/
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {

@@ -9,4 +9,6 @@
         android:state_checked="false"/>
     <item android:drawable="@drawable/icon_score_yellow_line"
         />
+
+
 </selector>

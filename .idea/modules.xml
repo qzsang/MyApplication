@@ -3,23 +3,42 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adaptive4percent/adaptive4percent.iml" filepath="$PROJECT_DIR$/adaptive4percent/adaptive4percent.iml" />
       <module fileurl="file://$PROJECT_DIR$/adaptive4px/adaptive4px.iml" filepath="$PROJECT_DIR$/adaptive4px/adaptive4px.iml" />
       <module fileurl="file://$PROJECT_DIR$/afinallibrary/afinallibrary.iml" filepath="$PROJECT_DIR$/afinallibrary/afinallibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdlocationdemo/bdlocationdemo.iml" filepath="$PROJECT_DIR$/bdlocationdemo/bdlocationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdpushdemo/bdpushdemo.iml" filepath="$PROJECT_DIR$/bdpushdemo/bdpushdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/bitmapshadertest/bitmapshadertest.iml" filepath="$PROJECT_DIR$/bitmapshadertest/bitmapshadertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceivertest/broadcastreceivertest.iml" filepath="$PROJECT_DIR$/broadcastreceivertest/broadcastreceivertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastsend/broadcastsend.iml" filepath="$PROJECT_DIR$/broadcastsend/broadcastsend.iml" />
       <module fileurl="file://$PROJECT_DIR$/customtextviewtest/customtextviewtest.iml" filepath="$PROJECT_DIR$/customtextviewtest/customtextviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/debugtest/debugtest.iml" filepath="$PROJECT_DIR$/debugtest/debugtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoandroid/demoandroid.iml" filepath="$PROJECT_DIR$/demoandroid/demoandroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/dialogtest/dialogtest.iml" filepath="$PROJECT_DIR$/dialogtest/dialogtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/easeUI/easeUI.iml" filepath="$PROJECT_DIR$/easeUI/easeUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/eventbustest/eventbustest.iml" filepath="$PROJECT_DIR$/eventbustest/eventbustest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fetchannotationtest/fetchannotationtest.iml" filepath="$PROJECT_DIR$/fetchannotationtest/fetchannotationtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/finalbitmaptest/finalbitmaptest.iml" filepath="$PROJECT_DIR$/finalbitmaptest/finalbitmaptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/floattest/floattest.iml" filepath="$PROJECT_DIR$/floattest/floattest.iml" />
       <module fileurl="file://$PROJECT_DIR$/gallerytest/gallerytest.iml" filepath="$PROJECT_DIR$/gallerytest/gallerytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/hxtest/hxtest.iml" filepath="$PROJECT_DIR$/hxtest/hxtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lockscreentest/lockscreentest.iml" filepath="$PROJECT_DIR$/lockscreentest/lockscreentest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapsearch/mapsearch.iml" filepath="$PROJECT_DIR$/mapsearch/mapsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycanvastest/mycanvastest.iml" filepath="$PROJECT_DIR$/mycanvastest/mycanvastest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ontouchtest/ontouchtest.iml" filepath="$PROJECT_DIR$/ontouchtest/ontouchtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonecontactsloading/phonecontactsloading.iml" filepath="$PROJECT_DIR$/phonecontactsloading/phonecontactsloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/popupwindowtest/popupwindowtest.iml" filepath="$PROJECT_DIR$/popupwindowtest/popupwindowtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" filepath="$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxjavatest/rxjavatest.iml" filepath="$PROJECT_DIR$/rxjavatest/rxjavatest.iml" />
       <module fileurl="file://$PROJECT_DIR$/showanimation/showanimation.iml" filepath="$PROJECT_DIR$/showanimation/showanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surfacetest/surfacetest.iml" filepath="$PROJECT_DIR$/surfacetest/surfacetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiperefreshlayoutimprove/swiperefreshlayoutimprove.iml" filepath="$PROJECT_DIR$/swiperefreshlayoutimprove/swiperefreshlayoutimprove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourguidetest/tourguidetest.iml" filepath="$PROJECT_DIR$/tourguidetest/tourguidetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videotest/videotest.iml" filepath="$PROJECT_DIR$/videotest/videotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpageaddline/viewpageaddline.iml" filepath="$PROJECT_DIR$/viewpageaddline/viewpageaddline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymtest/ymtest.iml" filepath="$PROJECT_DIR$/ymtest/ymtest.iml" />
     </modules>
   </component>
 </project>

@@ -35,4 +35,4 @@
         android:textSize="40sp"
         android:visibility="invisible" />
 
-</RelativeLayout><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/src/main/res/layout/ease_widget_contact_list.xml --><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/build/intermediates/bundles/debug/res/layout/ease_widget_contact_list.xml -->
+</RelativeLayout><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/src/main/res/layout/ease_widget_contact_list.xml --><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/build/intermediates/bundles/debug/res/layout/ease_widget_contact_list.xml -->

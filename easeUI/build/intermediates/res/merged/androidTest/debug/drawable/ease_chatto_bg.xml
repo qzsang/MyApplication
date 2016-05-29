@@ -3,4 +3,4 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_pressed="true" android:drawable="@drawable/ease_chatto_bg_focused" />
     <item android:drawable="@drawable/ease_chatto_bg_normal" />
-</selector><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/src/main/res/drawable/ease_chatto_bg.xml --><!-- From: file:/F:/ns/android/open_src/android_studio/MyApplication/easeUI/build/intermediates/bundles/debug/res/drawable/ease_chatto_bg.xml -->
+</selector><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/src/main/res/drawable/ease_chatto_bg.xml --><!-- From: file:/F:/ns/android/myTestObject/MyApplication/easeUI/build/intermediates/bundles/debug/res/drawable/ease_chatto_bg.xml -->
