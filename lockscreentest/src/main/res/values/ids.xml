@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tv_num_0"/>
+    <item type="id" name="tv_num_1"/>
+    <item type="id" name="tv_num_2"/>
+    <item type="id" name="tv_num_3"/>
+    <item type="id" name="tv_num_4"/>
+    <item type="id" name="tv_num_5"/>
+    <item type="id" name="tv_num_6"/>
+    <item type="id" name="tv_num_7"/>
+    <item type="id" name="tv_num_8"/>
+    <item type="id" name="tv_num_9"/>
+
+    <item type="id" name="iv_flag_0"/>
+    <item type="id" name="iv_flag_1"/>
+    <item type="id" name="iv_flag_2"/>
+    <item type="id" name="iv_flag_3"/>
+
+
+</resources>

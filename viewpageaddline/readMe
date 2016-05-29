@@ -1,0 +1,7 @@
+ViewPagerIndicator的原理(价值500rmb)
+  1.title是如何添加的：indicator有一个setViewPager方法，在该方法中，它首先获取了adapter的getCount返回的
+                       的数量，然后在for循环中动态创建了TextView，然后将adpater的getPagerTitle方法返回
+					   的字符串设置给TextView，然后将TextView添加到当前的线性布局中.
+  2.indicator的title如何跟随ViewPager滑动：它在setViewPager方法中给ViewPager设置了OnPagerChangeListener,
+                       在OnPagerChangeListener的onPagerScrolled方法中调用了scrollTo()方法，来实现滑动的
+  3.支持将title显示为图片：让adapter实现indicator内部定义的接口IconTabProvider，并实现对应的抽象方法

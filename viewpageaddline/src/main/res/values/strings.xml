@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPageAddLine</string>
+
+    <string-array name="tab_name"
+    >
+        <item>tab1</item>
+        <item>tab2</item>
+        <item>tab3</item>
+
+    </string-array>
+</resources>
