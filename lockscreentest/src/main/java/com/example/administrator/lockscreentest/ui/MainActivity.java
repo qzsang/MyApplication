@@ -20,11 +20,12 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.text).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"服务已开启",Toast.LENGTH_SHORT).show();
-
+               // Toast.makeText(MainActivity.this,"服务已开启",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"服务已启动，锁屏后就能看到效果",Toast.LENGTH_LONG).show();
                 //启动锁屏
                 startService(new Intent(MainActivity.this, MyService.class));
                 finish();
+
             }
         });
     }

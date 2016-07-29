@@ -5,7 +5,6 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -28,6 +27,49 @@
             <option value="$PROJECT_DIR$/finalbitmaptest" />
             <option value="$PROJECT_DIR$/floattest" />
             <option value="$PROJECT_DIR$/gallerytest" />
+            <option value="$PROJECT_DIR$/gesturetest" />
+            <option value="$PROJECT_DIR$/hxtest" />
+            <option value="$PROJECT_DIR$/lockscreentest" />
+            <option value="$PROJECT_DIR$/mapsearch" />
+            <option value="$PROJECT_DIR$/mycanvastest" />
+            <option value="$PROJECT_DIR$/mytest" />
+            <option value="$PROJECT_DIR$/ontouchtest" />
+            <option value="$PROJECT_DIR$/phonecontactsloading" />
+            <option value="$PROJECT_DIR$/popupwindowtest" />
+            <option value="$PROJECT_DIR$/recyclerviewtest" />
+            <option value="$PROJECT_DIR$/rxjavatest" />
+            <option value="$PROJECT_DIR$/showanimation" />
+            <option value="$PROJECT_DIR$/surfacetest" />
+            <option value="$PROJECT_DIR$/swiperefreshlayoutimprove" />
+            <option value="$PROJECT_DIR$/tourguidetest" />
+            <option value="$PROJECT_DIR$/videotest" />
+            <option value="$PROJECT_DIR$/viewpageaddline" />
+            <option value="$PROJECT_DIR$/ymtest" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adaptive4percent" />
+            <option value="$PROJECT_DIR$/adaptive4px" />
+            <option value="$PROJECT_DIR$/afinallibrary" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bdlocationdemo" />
+            <option value="$PROJECT_DIR$/bdpushdemo" />
+            <option value="$PROJECT_DIR$/bitmapshadertest" />
+            <option value="$PROJECT_DIR$/broadcastreceivertest" />
+            <option value="$PROJECT_DIR$/broadcastsend" />
+            <option value="$PROJECT_DIR$/customtextviewtest" />
+            <option value="$PROJECT_DIR$/debugtest" />
+            <option value="$PROJECT_DIR$/demoandroid" />
+            <option value="$PROJECT_DIR$/dialogtest" />
+            <option value="$PROJECT_DIR$/easeUI" />
+            <option value="$PROJECT_DIR$/eventbustest" />
+            <option value="$PROJECT_DIR$/fetchannotationtest" />
+            <option value="$PROJECT_DIR$/finalbitmaptest" />
+            <option value="$PROJECT_DIR$/floattest" />
+            <option value="$PROJECT_DIR$/gallerytest" />
+            <option value="$PROJECT_DIR$/gesturetest" />
             <option value="$PROJECT_DIR$/hxtest" />
             <option value="$PROJECT_DIR$/lockscreentest" />
             <option value="$PROJECT_DIR$/mapsearch" />

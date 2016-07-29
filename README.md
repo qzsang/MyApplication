@@ -57,3 +57,7 @@ swiperefreshlayou改进，实现上拉加载更多 : swiperefreshlayoutimprove
 百度推送demo : bdpushdemo
 
 百度定位demo : bdlocationdemo
+
+全屏dialog 测试:  dialogtest
+
+手势： gesturetest
